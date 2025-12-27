@@ -1,0 +1,1 @@
+Here is a partial Retail app which offers shopkeepers a service where he/she can log their stock updation automatically and for generation of bill invoice we will need a python library. All code by myself
